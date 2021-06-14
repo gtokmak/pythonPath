@@ -1,9 +1,10 @@
 # pythonPath
 
 ## pyuic5 ile pyrcc5 kurulu olduğu halde komutun bulunmadığını belirtmesi
-
-**'pyuic5' is not recognized as an internal or external command, operable program or batch file.** 
-<br/><br/>şeklinde bir hata mesajı ile karşılaşılırsa;<br/>
+```
+'pyuic5' is not recognized as an internal or external command, operable program or batch file.
+```
+Şeklinde bir hata mesajı ile karşılaşılırsa;<br/>
 - Bilgisayarım sağ tıkla
 - Özellikler
 - Gelişmiş sistem ayarları
